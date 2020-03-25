@@ -1,4 +1,4 @@
-infografia,fecha,hora,id_provincia,nombre_provincia,id_canton,nombre_canton,cerco_epid_act,casos_confirmados,muestras_tomadas,fallecidos,recuperados,estables_aislamiento_domiliciario,hosp_est,hosp_pron_res,casos_sosp
+infografia,fecha,hora,id_provincia,nombre provincia,id_canton,nombre canton,cerco_epid_act,casos_confirmados,muestras_tomadas,fallecidos,recuperados,estables_aislamiento_domiliciario,hosp_est,hosp_pron_res,casos_sosp
 2,13/3/2020,17:00,09,guayas,0901,guayaquil,279,7,129,1,NaN,21,NaN,1,NaN
 2,13/3/2020,17:00,12,los rios,1201,babahoyo,279,11,129,1,NaN,21,NaN,1,NaN
 2,13/3/2020,17:00,17,pichincha,1701,quito,279,4,129,1,NaN,21,NaN,1,NaN
@@ -302,7 +302,7 @@ infografia,fecha,hora,id_provincia,nombre_provincia,id_canton,nombre_canton,cerc
 21,24/3/2020,17:00,09,guayas,0910,milagro,1347,35,3618,27,3,919,78,55,1311
 21,24/3/2020,17:00,09,guayas,0911,naranjal,1347,1,3618,27,3,919,78,55,1311
 21,24/3/2020,17:00,09,guayas,0914,pedro carbo,1347,3,3618,27,3,919,78,55,1311
-21,24/3/2020,17:00,09,guayas,0909,salitre,1347,3,3618,27,3,919,78,55,1311
+21,24/3/2020,17:00,09,guayas,0919,salitre,1347,3,3618,27,3,919,78,55,1311
 21,24/3/2020,17:00,09,guayas,0916,samborondon,1347,99,3618,27,3,919,78,55,1311
 21,24/3/2020,17:00,09,guayas,0918,santa lucia,1347,4,3618,27,3,919,78,55,1311
 21,24/3/2020,17:00,09,guayas,0921,playas,1347,1,3618,27,3,919,78,55,1311
@@ -373,7 +373,7 @@ infografia,fecha,hora,id_provincia,nombre_provincia,id_canton,nombre_canton,cerc
 22,25/3/2020,10:00,09,guayas,0910,milagro,NaN,35,4081,28,3,990,87,65,1562
 22,25/3/2020,10:00,09,guayas,0911,naranjal,NaN,1,4081,28,3,990,87,65,1562
 22,25/3/2020,10:00,09,guayas,0914,pedro carbo,NaN,3,4081,28,3,990,87,65,1562
-22,25/3/2020,10:00,09,guayas,0921,salitre,NaN,3,4081,28,3,990,87,65,1562
+22,25/3/2020,10:00,09,guayas,0919,salitre,NaN,3,4081,28,3,990,87,65,1562
 22,25/3/2020,10:00,09,guayas,0916,samborondon,NaN,99,4081,28,3,990,87,65,1562
 22,25/3/2020,10:00,09,guayas,0918,santa lucia,NaN,4,4081,28,3,990,87,65,1562
 22,25/3/2020,10:00,09,guayas,0921,playas,NaN,1,4081,28,3,990,87,65,1562
@@ -393,7 +393,7 @@ infografia,fecha,hora,id_provincia,nombre_provincia,id_canton,nombre_canton,cerc
 22,25/3/2020,10:00,12,los rios,1206,urdaneta,NaN,1,4081,28,3,990,87,65,1562
 22,25/3/2020,10:00,12,los rios,1207,ventanas,NaN,5,4081,28,3,990,87,65,1562
 22,25/3/2020,10:00,12,los rios,1208,vinces,NaN,2,4081,28,3,990,87,65,1562
-22,25/3/2020,10:00,13,manabi,0402,bolivar,NaN,1,4081,28,3,990,87,65,1562
+22,25/3/2020,10:00,13,manabi,1302,bolivar,NaN,1,4081,28,3,990,87,65,1562
 22,25/3/2020,10:00,13,manabi,1306,jipijapa,NaN,1,4081,28,3,990,87,65,1562
 22,25/3/2020,10:00,13,manabi,1308,manta,NaN,21,4081,28,3,990,87,65,1562
 22,25/3/2020,10:00,13,manabi,1309,montecristi,NaN,1,4081,28,3,990,87,65,1562
