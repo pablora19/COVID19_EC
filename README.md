@@ -1,10 +1,10 @@
-Master contains four files:
+files in Master:
 - Covid_ec : contains the number of people positive for COVID by canton/province
-- age range alive_deads: contains the range of alive/deaths by age range + PROBABLY dead
+- age range alive_deaths: contains the range of alive/deaths by age range + PROBABLY dead (not updated regularily)
 - Positive age range: contains the gender which reported positive for COVID organized by age range
-- deaths by province
+- deaths by province: reported covid patients who have deceased (officaly)
+- Summary tests, hosp: daily stacked sum of tests, people who is at hospitals, people under observation at their houses 
 
-Files: age range and covid_ec might not have simultaneously updates due to delays on source
 
 Sources:
 1. Secretaria nacional de gestion de riesgos @riesgos_ec 
